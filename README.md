@@ -90,3 +90,21 @@ Designed sample sized and data collection for candidate polls for the midterm el
 
 Argentine Presidential Fellowship in Science and Technology. To pursue a Master’s Degree in the U.S. in Science and Technology
 
+## Outreach
+
+[Chapter Mobility - Climate Book (es)](https://elgatoylacaja.com/clima/movilidad)
+
+Horses, bikes, cars, trains, trucks and tractors. Ways of traveling and their relationship with the climate crisis. How and why to make sustainable cities.
+
+[It is not the car that kills (es)](https://elgatoylacaja.com/lo-que-mata-no-es-el-auto)
+
+Why do so many people die in road accidents? How are we thinking about cities?
+
+[You are transit (es)](https://elgatoylacaja.com/sos-el-transito)
+
+What is the best way to get around in the city? Why doesn't Batman ride a bike?
+
+[54N JU4N &#038; 803D0 (es)
+](https://elgatoylacaja.com/54n-ju4n-803d0)
+
+Do computers know where San Juan and Boedo streets are? What are the algorithms behind 'I'll wait for you in the corner'?

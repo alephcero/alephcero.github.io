@@ -22,7 +22,7 @@ Postgres+Postgis :large_blue_circle: :large_blue_circle: :large_blue_circle: :la
 
 R :large_blue_circle::large_blue_circle::large_blue_circle::white_circle::white_circle:
 
-Spanish :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
+:es: Spanish :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
 
-English :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::white_circle:
+:uk: English :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::white_circle:
 

@@ -16,15 +16,15 @@ B.S. Sociology, College of Social Sciences, University of Buenos Aires, Buenos A
 
 ## Skills
 
-Python :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
+**Programming Languages**: Python, R, Postgres+Postgis
 
-Postgres+Postgis :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:
+**Techniques**: Data Analysis, Geospatial Statistics and Analysis, Spatial clustering, Data Engineering, Visualizations.  
 
-R :large_blue_circle::large_blue_circle::large_blue_circle::white_circle::white_circle:
+## Languages
 
-:es: Spanish :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
+Spanish (native speaker) 
 
-:uk: English :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::white_circle:
+English (proficient)
 
 
 ## Professional experience
@@ -40,7 +40,7 @@ Implemented a methodology to infer trip destination in Greater Buenos Aires urba
 
 **International Development Bank (IDB)**, *Consultant*, November 2021 - May 2022
 
-Analyzed mobility patterns for public transportations on Buenos Aires Urban Area based on income distribution in terms of rips length, amount and location of transfers, modal split.  [Publication (es)] (https://publications.iadb.org/publications/spanish/document/Identificando-la-desigualdad-en-los-patrones-de-movilidad-en-transporte-publico.pdf)
+Analyzed mobility patterns for public transportations on Buenos Aires Urban Area based on income distribution in terms of rips length, amount and location of transfers, modal split.  [Publication (es)](https://publications.iadb.org/publications/spanish/document/Identificando-la-desigualdad-en-los-patrones-de-movilidad-en-transporte-publico.pdf)
 
 
 **International Development Bank (IDB) & National Ministry of Transportation, Argentina**, *Consultant*, January 2021 - August 2021
@@ -75,3 +75,18 @@ Scripted on-line surveys applied on the Livra.com community. Cleaned dataset in 
 **Data Analyst**, *Analogías SRL*, April 2009 – August 2009 
 
 Designed sample sized and data collection for candidate polls for the midterm election in 2009. Performed data process and analysis, visualization and wrote final reports. 
+
+## Teaching
+**Python for Spatial Analysis**, *Tres de Febrero University (UNTREF) - Masters in Analysis and Generation of Statistical Information*, August 2018 - Present
+
+**Infrastructure, Transport and New Technologies**, *Torcuato Di Tella University (UTDT) - Master in Urban Economics*, March 2019 - Present
+
+**Spatial clustering Techniques with QGIS**, *Tres de Febrero University (UNTREF) - Masters in Analysis and Generation of Statistical Information*, February 2018 - February 2020
+
+**Data analysis and Transportation**, *San Martín National University (UNSAM) - Transportation Institute*, November 2020 - June 2021 
+
+
+## Awards 
+
+Argentine Presidential Fellowship in Science and Technology. To pursue a Master’s Degree in the U.S. in Science and Technology
+

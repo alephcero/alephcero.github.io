@@ -31,7 +31,7 @@ English (proficient)
 
 **International Development Bank (IDB)**, *Consultant*, November 2022 - April 2023
 
-Developed an open-sourced library [Urbantrips](https://github.com/EL-BID/UrbanTrips) to process and analyse smart card data in urban public transportation systems. 
+Developed an open-sourced library [Urbantrips](https://github.com/EL-BID/UrbanTrips) to process and analyze smart card data in urban public transportation systems. 
 
 
 **International Development Bank (IDB)**, *Consultant*, June 2022 - October 2022
